@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wilkneMaia/linaApp/issues"
   },
-  "homepage": "https://github.com/wilkneMaia/linaApp#readme"
+  "homepage": "https://github.com/wilkneMaia/linaApp#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
