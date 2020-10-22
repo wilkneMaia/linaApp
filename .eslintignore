@@ -1,6 +1,4 @@
 node_modules
 dist
 .DS_Store
-.env
-jest.config.ts
-tsconfig.json
+*.js
